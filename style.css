@@ -17,7 +17,7 @@ body {
   padding: 15px;
   border: 2px solid blue;
 }
-#unique span {
+#unique > span {
   color: red;
   font-weight: bold;
 }
